@@ -1,0 +1,3 @@
+public enum BuffValueModifyTarget_Type{ none,BuffValueModifyTarget_health,BuffValueModifyTarget_Defend,BuffValueModifyTarget_HealthUp,BuffValueModifyTarget_maxHealth,BuffValueModifyTarget_toolDamage,
+
+}
